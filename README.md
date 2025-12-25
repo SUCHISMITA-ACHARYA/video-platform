@@ -80,6 +80,3 @@ Video processing and moderation are mocked to demonstrate workflow.<br>
 Focus is on architecture, access control, and real-time updates.<br>
 UI is kept simple, clean, and functional.
 
-Status-
-
-✅ All required features from the assignment are implemented.
