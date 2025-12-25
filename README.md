@@ -13,19 +13,19 @@ Viewer:
 Email: viewer@test.com<br>
 Password: 1234
 
--Can log in
--Can browse and play videos
--Cannot upload videos
+-Can log in<br>
+-Can browse and play videos<br>
+-Cannot upload videos<br>
 
 Editor:
 
-Email: editor@test.com
+Email: editor@test.com<br>
 Password: 1234
 
--Can log in
--Can upload videos
--Can see real-time processing progress
--Can view video status (Safe / Flagged)
+-Can log in<br>
+-Can upload videos<br>
+-Can see real-time processing progress<br>
+-Can view video status (Safe / Flagged)<br>
 
 Features:
 
@@ -41,19 +41,19 @@ Tech Stack:
 
 Frontend:
 
--React (Vite)
--CSS
--Axios
--Socket.io Client
+-React (Vite)<br>
+-CSS<br>
+-Axios<br>
+-Socket.io Client<br>
 
 Backend:
 
--Node.js
--Express
--MongoDB
--Mongoose
--Multer
--Socket.io
+-Node.js<br>
+-Express<br>
+-MongoDB<br>
+-Mongoose<br>
+-Multer<br>
+-Socket.io<br>
 -JWT
 
 How to Run:
