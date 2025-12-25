@@ -10,7 +10,7 @@ User Roles:
 
 Viewer:
 
-Email: viewer@test.com
+Email: viewer@test.com<br>
 Password: 1234
 
 -Can log in
