@@ -1,13 +1,13 @@
 🎥 Video Processing Platform
 
-Click this link to access the web aplication:<br>
-https://video-platform-ruddy.vercel.app/
-
 Overview
 
 This is a full-stack video processing platform built for an assignment.
 Users can log in, upload videos (based on role), see real-time processing progress, and watch videos.
 
+Click this link to access the web aplication:<br>
+https://video-platform-ruddy.vercel.app/
+Please follow the below mentioned email and password to login.
 
 User Roles:
 
